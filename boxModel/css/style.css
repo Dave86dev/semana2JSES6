@@ -1,0 +1,26 @@
+
+div {
+    background-color: blue;
+    height: 60px;
+    width: 140px;
+    border: 8px solid green;
+    padding: 15px;  
+}
+
+.border {
+    box-sizing: border-box;
+    /*Ancho total: 140 px
+    Altura total: 60 px
+    Ancho de la caja de contenido: 140 - (2 * 15) - (2*8) = 94px
+    Alto de la caja de contenido: 60 - (2 * 15) - (2*8) = 14px
+    */
+}
+
+.content {
+    box-sizing: content-box;
+    /*Ancho total: 140 + (2 * 15) + (2*8) = 186px
+    Altura total: 60 + (2 * 15) + (2*8) = 106px
+    Ancho de la caja de contenido: 140px
+    Alto de la caja de contenido: 60px
+    */
+}

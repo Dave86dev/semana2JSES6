@@ -1,0 +1,17 @@
+{
+    "idleHeartbeats": 781,
+    "navigatingHeartbeats": 237,
+    "totalCodingHeartbeats": 1473,
+    "languageHeartbeats": {
+        "html": 974,
+        "css": 469,
+        "jsonc": 19,
+        "javascript": 11
+    },
+    "fileHeartbeats": {
+        "index.html": 974,
+        "css/style.css": 469,
+        "c:\\Users\\david\\AppData\\Roaming\\Code\\User\\settings.json": 19,
+        "main.js": 11
+    }
+}

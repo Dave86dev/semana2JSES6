@@ -1,0 +1,30 @@
+.container-fluid {
+    /*background-color: #4D346F;*/
+    
+}
+
+.col1 {
+    background-color: blue;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 0.5em;
+}
+
+.col2 {
+    background-color: blueviolet;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 0.5em;
+}
+
+.col3 {
+    background-color: pink;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 0.5em;
+}
+
+.col {
+    background: red;
+   
+}

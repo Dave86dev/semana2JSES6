@@ -1,0 +1,16 @@
+{
+    "idleHeartbeats": 271,
+    "navigatingHeartbeats": 147,
+    "totalCodingHeartbeats": 471,
+    "languageHeartbeats": {
+        "html": 187,
+        "javascript": 181,
+        "css": 103
+    },
+    "fileHeartbeats": {
+        "index.html": 173,
+        "js/main.js": 181,
+        "css/style.css": 103,
+        "d:\\GeeksHubs\\teaching\\katas\\css19\\index.html": 14
+    }
+}

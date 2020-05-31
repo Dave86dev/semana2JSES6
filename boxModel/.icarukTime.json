@@ -1,0 +1,13 @@
+{
+    "idleHeartbeats": 121,
+    "navigatingHeartbeats": 65,
+    "totalCodingHeartbeats": 221,
+    "languageHeartbeats": {
+        "html": 84,
+        "css": 137
+    },
+    "fileHeartbeats": {
+        "index.html": 84,
+        "css/style.css": 137
+    }
+}

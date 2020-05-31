@@ -1,0 +1,48 @@
+
+/*ELEMENTOS*/
+
+div {
+    background-color: blue;
+}
+
+
+/*ID*/
+
+#contenedor2 {
+    background-color: green;
+}
+
+#contenedor2:hover {
+    background-color: orange;
+}
+
+#david::placeholder {
+    color: yellow;
+}
+
+/*CLASES*/
+
+.contenedor3 {
+    background-color: red;
+}
+
+.div1 {
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+    border: 4px solid green;
+    margin-bottom: -1em;
+}
+
+.div2 {
+    width: 20em;
+    height: 20em;
+    border-radius: 50% 25px 2em 60%;
+    margin-top: 3em;
+}
+
+/*ATRIBUTOS*/
+
+[data-type='liquid']{
+    background-color: grey;
+}

@@ -1,0 +1,13 @@
+{
+    "idleHeartbeats": 869,
+    "navigatingHeartbeats": 354,
+    "totalCodingHeartbeats": 2088,
+    "languageHeartbeats": {
+        "html": 291,
+        "javascript": 1797
+    },
+    "fileHeartbeats": {
+        "index.html": 291,
+        "js/main.js": 1797
+    }
+}
